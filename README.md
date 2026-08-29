@@ -1,4 +1,4 @@
-# 🚀 DecodeLabs Internship — Data Science Portfolio
+# 🚀 DecodeLabs Internship — Data Science 
 
 <p align="center">
 
